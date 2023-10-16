@@ -1,6 +1,6 @@
 # Welcome to CrowdFlow!
 
-![My Image](Logotipo.png)
+![My Image](profile/Logotipo.png)
 
 In an increasingly connected world, crowdsensing technology, specifically mobile crowd sensing (MCS), is increasingly revolutionizing the way we understand and interact with public spaces, as well as consumer behaviors. This innovative approach utilizes the power of smartphones and mobile devices to collect real-time data, transforming it into valuable insights for a wide range of applications, from efficiently managing public spaces to personalizing physical in-store advertising and enhancing security.
 
@@ -15,13 +15,13 @@ In an increasingly connected world, crowdsensing technology, specifically mobile
 - **Artificial Inteligence (AI):** In addition, crowdsensing also opens doors to the implementation of artificial intelligence (AI) models to predict occupancy trends, consumer behaviors and even recommend resource optimization strategies for cities and companies.
 
 ### Organization Statistics
-
-- 📊 **Monthly Visits:** <p align="left"> <img src="https://komarev.com/ghpvc/?username=CrowdFlow-Organization&label=Profile%20views&color=0e75b6&style=flat" alt="CrowdFlow-Organization" /> </p>
-- 📦 **Repositories:** 1
-- 👥 **Teams:** 3
-- 👤 **Members:** 7
-**<h4 align="left">- 📱Languages and Tools:</h4>**
-<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<ul>
+  <li>📊 **Monthly Visits:** <p align="left"> <img src="https://komarev.com/ghpvc/?username=CrowdFlow-Organization&label=Profile%20views&color=0e75b6&style=flat" alt="CrowdFlow-Organization" /> </p></li>
+ <li>📦 **Repositories:** 1</li>
+ <li>👥 **Teams:** 3</li>
+ <li>👤 **Members:** 7</li>
+ <li>📱Languages and Tools: <p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p></li>
+</ul>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CrowdFlow-Organization&hide_progress=true)
 
