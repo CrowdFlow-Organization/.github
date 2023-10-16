@@ -1,8 +1,7 @@
 # CrowdFlow
 
-![Logo da Sua Organização]([link-para-o-seu-logo.png](https://cdn.discordapp.com/attachments/1162511018925236336/1162776075571572857/Screenshot_from_2023-10-14_16-34-33-removebg-preview.png?ex=653d2a9b&is=652ab59b&hm=251ee70ca05ab1d21955b1eb120c03d1794ff82a9a3bd49a812bfef56911924b&))
-
 # Welcome to CrowdFlow!
+<p align="center">![Logo](https://github.com/CrowdFlow-Organization/.github/assets/62063067/fdea5a7c-c1ee-490b-aef7-ca0f0c0d6fd4)</p>
 
 In an increasingly connected world, crowdsensing technology, specifically mobile crowd sensing (MCS), is increasingly revolutionizing the way we understand and interact with public spaces, as well as consumer behaviors. This innovative approach utilizes the power of smartphones and mobile devices to collect real-time data, transforming it into valuable insights for a wide range of applications, from efficiently managing public spaces to personalizing physical in-store advertising and enhancing security.
 
