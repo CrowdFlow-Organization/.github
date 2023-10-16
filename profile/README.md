@@ -18,16 +18,13 @@ In an increasingly connected world, crowdsensing technology, specifically mobile
 
 ### Organization Statistics
 
-- 📊 **Monthly Visits:** <p align="left"> <img src="https://komarev.com/ghpvc/?username=franciscoreisizquierdo&label=Profile%20views&color=0e75b6&style=flat" alt="CrowdFlow-Organization" /> </p>
+- 📊 **Monthly Visits:** <p align="left"> <img src="https://komarev.com/ghpvc/?username=CrowdFlow-Organization&label=Profile%20views&color=0e75b6&style=flat" alt="CrowdFlow-Organization" /> </p>
 - 📦 **Repositories:** 1
 - 👥 **Teams:** 3
 - 👤 **Members:** 7
-- 📱**<h3 align="left">Languages and Tools:</h3>**
+**<h4 align="left">- 📱Languages and Tools:</h4>**
 <p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=franciscoreisizquierdo&show_icons=true&locale=en&layout=compact" alt="CrowdFlow-Organization" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=CrowdFlow-Organization&show_icons=true&locale=en&layout=compact" alt="CrowdFlow-Organization" /></p>
 
 **CrowdFlow** is an organization that uses mobile devices and advanced technologies to collect, analyze and apply real-time data across a variety of sectors.
-
-![Imagem de Multidão em Espaço Público](link-para-uma-imagem-relacionada.png)
-
